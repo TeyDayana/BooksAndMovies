@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Books&amp;Movies</string>
+    <string name="about_program">О программе</string>
+    <string name="settings">Настройки</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="sunny_day">SUNNY DAY</string>
+    <string name="warm_evening">WARM EVENING</string>
+    <string name="theme">Theme</string>
+    <string name="personalise">Personalise</string>
+    <string name="movies">Movies</string>
+    <string name="books">Books</string>
+    <string name="comment">Comment</string>
+    <string name="author">Author</string>
+    <string name="name">Name</string>
+    <string name="today">Today</string>
+    <string name="personal_rating">Personal rating</string>
+    <string name="date_of_reading">Date of reading</string>
+    <string name="save">Save</string>
+    <string name="delete_the_book">Delete the book</string>
+    <string name="date_of_watching">Date of watching</string>
+</resources>
